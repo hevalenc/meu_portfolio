@@ -1,0 +1,15 @@
+body {
+    background-image: url(background.jpg);
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: bold black;
+    font-size: larger;
+}
+
+h1{
+    background-color: white;
+}
